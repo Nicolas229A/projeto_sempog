@@ -1,0 +1,3 @@
+Caso o computador que este projeto esteja sendo executado for uma máquina do IFMS, mudar a porta no ConexaoBD.php para 5433.
+
+Obs: O "PEAK" no nome do projeto não quer dizer nada em especial.
